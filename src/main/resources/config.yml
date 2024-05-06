@@ -1,0 +1,10 @@
+Note:
+  Name: "&f&lNote > %amount%"
+  Lore:
+    - "&c&lline one"
+    - "&f&lline two"
+    - "line three"
+  Material: PAPER
+  CustomModelData: -1
+  Data: -1
+  Enchanted: true

@@ -1,0 +1,8 @@
+name: ColeClaimWithdraw
+version: '${project.version}'
+main: com.unclecole.coleclaimwithdraw.ColeClaimWithdraw
+api-version: 1.19
+authors: [ Cole ]
+depend: [ GriefPrevention ]
+commands:
+  claimwithdraw:
